@@ -11,6 +11,7 @@ data-science/
 │
 ├── fundamentals/
 │   ├── stat_tests.py
+|   ├── data_cleaning.py
 │
 ├── mini-projects/
 │
@@ -22,34 +23,25 @@ data-science/
 
 The `fundamentals` folder contains concise implementations, notes, and examples of important data science concepts.
 
-| Topic | Status | Notes | Files |
-|--------|:------:|------| --------- |
-| NumPy | ✅ | Arrays, indexing, broadcasting |
-| Pandas | ✅ | DataFrames, filtering, grouping | stat_tests.py
-| Data Cleaning | ✅ | Missing values, encoding, outlier detection | Data_cleaning
-| Feature Engineering | ⏳ | Scaling, transformations |
-| Statistics | ⏳ | Probability distributions, hypothesis testing |
-| Regression | ⏳ | Linear & polynomial regression |
-| Classification | ⏳ | Logistic regression, trees |
-| Clustering | ⏳ | K-Means, hierarchical clustering |
+| Topic | Notes | Files |
+|--------|------| --------- |
+| NumPy | Arrays, indexing, broadcasting |
+| Pandas |  DataFrames, filtering, grouping | stat_tests.py
+| Data Cleaning |  Missing values, encoding, outlier detection | data_cleaning.py
+| Feature Engineering |  Scaling, transformations |
 
-Legend:
-- ✅ Completed
-- ⏳ In Progress
-- 🔜 Planned
+Rest are set to be updated soon.
+
 
 ---
 
 ## Mini Projects
 
-Projects where I apply the concepts learned above to real datasets.
+Projects where I apply the concepts learned above to real datasets. Set to be uploaded soon
 
 | Project | Skills | Status |
 |---------|--------|:------:|
-| Titanic Survival Prediction | Pandas, EDA, Logistic Regression | 🔜 |
-| House Price Prediction | Feature Engineering, Regression | 🔜 |
-| Customer Churn Analysis | Classification | 🔜 |
-| Stock Alpha Model | Time Series, Feature Engineering | 🔜 |
+
 
 ---
 
@@ -65,25 +57,6 @@ Projects where I apply the concepts learned above to real datasets.
 
 ---
 
-## Current Learning Goals
-
-- [ ] Complete data preprocessing fundamentals
-- [ ] Learn model evaluation techniques
-- [ ] Build reusable machine learning pipelines
-- [ ] Complete 5 end-to-end mini projects
-- [ ] Explore time series forecasting
-- [ ] Learn ensemble learning methods
-
----
 
 ## Future Topics
 
-- Cross Validation
-- Hyperparameter Tuning
-- Pipelines
-- Feature Selection
-- PCA
-- Time Series Forecasting
-- Deep Learning
-- NLP
-- Recommendation Systems
