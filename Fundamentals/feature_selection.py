@@ -193,23 +193,3 @@ plt.title(f"Feature Selection using RFE \n Optimal number of features is {optima
 plt.tight_layout()
 plt.show()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
