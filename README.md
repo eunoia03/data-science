@@ -11,7 +11,9 @@ data-science/
 │
 ├── fundamentals/
 │   ├── stat_tests.py
-|   ├── data_cleaning.py
+│   ├── data_cleaning.py
+│   ├── feature_selection.py
+│   ├── model_validation.py
 │
 ├── mini-projects/
 │
@@ -28,7 +30,7 @@ The `fundamentals` folder contains concise implementations, notes, and examples 
 | NumPy | Arrays, indexing, broadcasting |
 | Pandas |  DataFrames, filtering, grouping | stat_tests.py
 | Data Cleaning |  Missing values, encoding, outlier detection | data_cleaning.py
-| Feature Engineering |  Scaling, transformations |
+| Feature Engineering |  Scaling, transformations | feature_selection.py, model_validation.py
 
 Rest are set to be updated soon.
 
