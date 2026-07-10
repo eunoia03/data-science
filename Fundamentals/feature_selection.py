@@ -193,3 +193,5 @@ plt.title(f"Feature Selection using RFE \n Optimal number of features is {optima
 plt.tight_layout()
 plt.show()
 
+# From the output plot we see that 2 inputs give the highest score/performance
+
