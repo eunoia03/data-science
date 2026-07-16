@@ -14,6 +14,7 @@ data-science/
 │   ├── data_cleaning.py
 │   ├── feature_selection.py
 │   ├── model_validation.py
+│   ├── linearRegression.py
 │
 ├── mini-projects/
 │
@@ -31,6 +32,7 @@ The `fundamentals` folder contains concise implementations, notes, and examples 
 | Pandas |  DataFrames, filtering, grouping | stat_tests.py
 | Data Cleaning |  Missing values, encoding, outlier detection | data_cleaning.py
 | Feature Engineering |  Scaling, transformations | feature_selection.py, model_validation.py
+| Linear Regression | Sklearn, data preparation | linearRegression.py
 
 Rest are set to be updated soon.
 
