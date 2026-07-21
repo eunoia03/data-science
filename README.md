@@ -18,7 +18,8 @@ data-science/
 │   ├── decision_tree_reg.py
 │   ├── random_forest.py
 │
-├── mini-projects/
+├── starter-projects/
+│   ├── loyalty_score_prediction.py
 │
 ├── README.md
 └── .gitignore
