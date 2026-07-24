@@ -17,6 +17,7 @@ data-science/
 │   ├── linearRegression.py
 │   ├── decision_tree_reg.py
 │   ├── random_forest.py
+│   ├── log_regression.py
 │
 ├── starter-projects/
 │   ├── loyalty_score_prediction.py
