@@ -18,6 +18,7 @@ data-science/
 │   ├── decision_tree_reg.py
 │   ├── random_forest.py
 │   ├── log_regression.py
+│   ├── decision_tree_class.py
 │
 ├── starter-projects/
 │   ├── loyalty_score_prediction.py
@@ -37,7 +38,7 @@ The `fundamentals` folder contains concise implementations, notes, and examples 
 | Data Cleaning |  Missing values, encoding, outlier detection | data_cleaning.py
 | Feature Engineering |  Scaling, transformations | feature_selection.py, model_validation.py
 | Linear Regression | Sklearn, data preparation | linearRegression.py
-| Decision Trees | Sklearn | decision_tree_reg.py, random_forest.py
+| Decision Trees | Sklearn, Regression Tree, Classification Tree | decision_tree_reg.py, random_forest.py, decision_tree_class.py
 
 Rest are set to be updated soon.
 
@@ -48,8 +49,9 @@ Rest are set to be updated soon.
 
 Projects where I apply the concepts learned above to real datasets. Set to be uploaded soon
 
-| Project | Skills | Status |
-|---------|--------|:------:|
+| Project | Skills |
+|---------|--------|
+| Loyalty Score Prediction | Linear Regression, Logistic Regression, Decision Tree, SkLearn |
 
 
 ---
