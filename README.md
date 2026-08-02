@@ -20,6 +20,7 @@ data-science/
 │   ├── log_regression.py
 │   ├── decision_tree_class.py
 │   ├── random_forest_c.py
+│   ├── knn_class.py
 │
 ├── starter-projects/
 │   ├── loyalty_score_prediction.py
