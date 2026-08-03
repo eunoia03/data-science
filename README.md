@@ -55,6 +55,7 @@ Projects where I apply the concepts learned above to real datasets. Set to be up
 |---------|--------|
 | Loyalty Score Prediction | Linear Regression, Logistic Regression, Decision Tree, SkLearn |
 | RAG AI Bot Assistant | LangSmith, LangChain, OpenAI API|
+|SQL AI Agent| LangChain, OpenAI API|
 
 The mini projects are shown in my portfolio website danhokim.ca
 
