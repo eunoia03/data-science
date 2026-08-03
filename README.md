@@ -55,6 +55,7 @@ Projects where I apply the concepts learned above to real datasets. Set to be up
 |---------|--------|
 | Loyalty Score Prediction | Linear Regression, Logistic Regression, Decision Tree, SkLearn |
 
+The mini projects are shown in my portfolio website danhokim.ca
 
 ---
 
