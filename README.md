@@ -24,6 +24,8 @@ data-science/
 │
 ├── starter-projects/
 │   ├── loyalty_score_prediction.py
+│   ├── rag-ai-chatbot.py
+│   ├── SQL_agent2.py
 │
 ├── README.md
 └── .gitignore
