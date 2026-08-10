@@ -21,6 +21,7 @@ data-science/
 │   ├── decision_tree_class.py
 │   ├── random_forest_c.py
 │   ├── knn_class.py
+│   ├── grid_search_RF.py
 │
 ├── starter-projects/
 │   ├── loyalty_score_prediction.py
