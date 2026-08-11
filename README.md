@@ -23,6 +23,7 @@ data-science/
 │   ├── knn_class.py
 │   ├── grid_search_RF.py
 │   ├── skl_pipeline.py
+│   ├── kmeans_clustering.py
 │
 ├── starter-projects/
 │   ├── loyalty_score_prediction.py
@@ -46,6 +47,7 @@ The `fundamentals` folder contains concise implementations, notes, and examples 
 | Linear Regression | Sklearn, data preparation | linearRegression.py
 | Decision Trees | Sklearn, Regression Tree, Classification Tree | decision_tree_reg.py, random_forest.py, decision_tree_class.py, random_forest_c.py
 | SkLearn | Grid search, Pipelines | grid_search_RF.py, skl_pipeline.py
+| Unsupervised Learning | K-Means clustering | kmeans_clustering.py
 
 Rest are set to be updated soon.
 
