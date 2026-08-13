@@ -30,6 +30,7 @@ data-science/
 │   ├── rag-ai-chatbot.py
 │   ├── SQL_agent2.py
 │   ├── you_are_what_you_eat_kmeans.py
+│   ├── principle_component_analysis.py
 │
 ├── README.md
 └── .gitignore
@@ -44,7 +45,7 @@ The `fundamentals` folder contains concise implementations, notes, and examples 
 | NumPy | Arrays, indexing, broadcasting |
 | Pandas |  DataFrames, filtering, grouping | stat_tests.py
 | Data Cleaning |  Missing values, encoding, outlier detection | data_cleaning.py
-| Feature Engineering |  Scaling, transformations | feature_selection.py, model_validation.py
+| Feature Engineering |  Scaling, transformations, PCA | feature_selection.py, model_validation.py, principle_component_analysis.py
 | Linear Regression | Sklearn, data preparation | linearRegression.py
 | Decision Trees | Sklearn, Regression Tree, Classification Tree | decision_tree_reg.py, random_forest.py, decision_tree_class.py, random_forest_c.py
 | SkLearn | Grid search, Pipelines | grid_search_RF.py, skl_pipeline.py
