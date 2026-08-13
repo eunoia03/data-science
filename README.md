@@ -29,6 +29,7 @@ data-science/
 │   ├── loyalty_score_prediction.py
 │   ├── rag-ai-chatbot.py
 │   ├── SQL_agent2.py
+│   ├── you_are_what_you_eat_kmeans.py
 │
 ├── README.md
 └── .gitignore
@@ -63,8 +64,9 @@ Projects where I apply the concepts learned above to real datasets. Set to be up
 | Loyalty Score Prediction | Linear Regression, Logistic Regression, Decision Tree, SkLearn |
 | RAG AI Bot Assistant | LangSmith, LangChain, OpenAI API|
 | SQL AI Agent| LangChain, OpenAI API|
+| K Means Clustering | SkLearn, KMeans, Matplotlib |
 
-The mini projects are shown in my portfolio website danhokim.ca
+The mini projects are shown more in depth in my portfolio website danhokim.ca
 
 ---
 
