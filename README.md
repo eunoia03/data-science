@@ -31,6 +31,7 @@ data-science/
 │   ├── SQL_agent2.py
 │   ├── you_are_what_you_eat_kmeans.py
 │   ├── principle_component_analysis.py
+│   ├── apriori.py
 │
 ├── README.md
 └── .gitignore
